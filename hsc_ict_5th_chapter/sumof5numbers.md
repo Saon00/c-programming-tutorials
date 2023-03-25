@@ -26,4 +26,4 @@ int main()
 ```
 
 ## Flow-chart
-![](hsc_ict_5th_chapter/flowcharts/sumof5numbers.jpg)
+![](/hsc_ict_5th_chapter/flowcharts/sumof5numbers.jpg)
